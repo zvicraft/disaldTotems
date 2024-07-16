@@ -1,0 +1,4 @@
+name: disaldTotems
+version: '${project.version}'
+main: com.zvicraft.disaldtotems.DisaldTotems
+api-version: '1.20'
